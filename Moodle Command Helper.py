@@ -1,8 +1,6 @@
 import os
 os.system('cls')
 
-# /moodle apply self moodle "Fluffy"
-
 def creationMode():
     actionList = [1,2,3]
     actionSelect = 0
